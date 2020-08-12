@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "afif nur rohman",
+      "alamat": "pekalongan",
+      "umur": 20,
+      "nohp": "08241241109"
+    },
+    {
+      "id": 2,
+      "name": "diko",
+      "alamat": "jogjakarta",
+      "umur": 20,
+      "nohp": "08241241102"
+    },
+    {
+      "id": 3,
+      "name": "habib",
+      "alamat": "magelang",
+      "umur": 20,
+      "nohp": "08241241102"
+    },
+    {
+      "id": 4,
+      "name": "afif",
+      "alamat": "pekalongan",
+      "umur": 20,
+      "nohp": "08241241109"
+    },
+    {
+      "id": 5,
+      "name": "diko",
+      "alamat": "jogjakarta",
+      "umur": 20,
+      "nohp": "08241241102"
+    },
+    {
+      "id": 6,
+      "name": "habib",
+      "alamat": "magelang",
+      "umur": 20,
+      "nohp": "08241241102"
+    },
+    {
+      "id": 7,
+      "name": "afif",
+      "alamat": "pekalongan",
+      "umur": 20,
+      "nohp": "08241241109"
+    },
+    {
+      "id": 8,
+      "name": "diko",
+      "alamat": "jogjakarta",
+      "umur": 20,
+      "nohp": "08241241102"
+    },
+    {
+      "id": 9,
+      "name": "habib",
+      "alamat": "magelang",
+      "umur": 20,
+      "nohp": "08241241102"
+    }
+  ]
+}
